@@ -1,0 +1,1 @@
+{"version":3,"sources":["js/script.js"],"names":["run","console","log"],"mappings":"AAAA,IAAIA,GAAG,GAAG,SAANA,GAAM,GAAM;AACdC,EAAAA,OAAO,CAACC,GAAR,CAAY,SAAZ;AACD,CAFD","file":"script.d573be0b.js","sourceRoot":"..","sourcesContent":["let run = () => {\r\n  console.log(\"running\");\r\n};\r\n"]}
